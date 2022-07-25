@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T10:56:27.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1jBR4UsiCSMUPMWXAEye" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T11:04:41.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8NbzkmEDzyvPfR4CLxBP" version="20.2.0" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
-    <mxGraphModel dx="946" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,13 +46,13 @@
         <mxCell id="59l6YtmiwYAptjqG7js1-13" value="&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 16px; orphans: 4; text-align: start; text-size-adjust: auto; background-color: rgb(255, 255, 255);&quot;&gt;keepalived&lt;/span&gt;" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="59l6YtmiwYAptjqG7js1-15" value="官网web服务器&lt;br&gt;172.26.169.42" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="59l6YtmiwYAptjqG7js1-15" value="官网web服务器&lt;br&gt;172.26.169.42" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="59l6YtmiwYAptjqG7js1-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59l6YtmiwYAptjqG7js1-17" target="59l6YtmiwYAptjqG7js1-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59l6YtmiwYAptjqG7js1-17" value="后台web服务器&lt;br&gt;172.26.169.122" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="59l6YtmiwYAptjqG7js1-17" value="后台web服务器&lt;br&gt;172.26.169.122" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="59l6YtmiwYAptjqG7js1-26" value="文件服务器&lt;br&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;172.26.169.34&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="59l6YtmiwYAptjqG7js1-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59l6YtmiwYAptjqG7js1-38" target="59l6YtmiwYAptjqG7js1-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59l6YtmiwYAptjqG7js1-38" value="provider(全服务)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="59l6YtmiwYAptjqG7js1-38" value="provider(全服务)&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start;&quot;&gt;172.26.169.105&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="490" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="59l6YtmiwYAptjqG7js1-40" value="后台数据库&lt;br&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;172.26.169.48&lt;span style=&quot;&quot; class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
